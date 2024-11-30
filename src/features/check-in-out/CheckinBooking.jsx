@@ -13,7 +13,7 @@ import { useBooking } from "../bookings/hooks/useBooking";
 import Spinner from "../../ui/Spinner";
 import Checkbox from "../../ui/Checkbox";
 import { formatCurrency } from "../../utils/helpers";
-import { useCheckin } from "./hooks/useCheckIn";
+import { useCheckin } from "./hooks/useCheckin";
 import { useSettings } from "../settings/hooks/useSettings";
 import Empty from "../../ui/Empty";
 
